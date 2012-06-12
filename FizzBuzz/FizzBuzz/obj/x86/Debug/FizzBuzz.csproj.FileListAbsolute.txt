@@ -1,0 +1,5 @@
+D:\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+D:\FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
